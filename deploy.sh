@@ -182,3 +182,4 @@
 - Add tests — iteration 59 (2025)
 - Polish code — iteration 1 (2026)
 - Add example — iteration 12 (2026)
+- Minor cleanup — iteration 13 (2026)
