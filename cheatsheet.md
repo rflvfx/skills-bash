@@ -13,3 +13,4 @@ cmd || die "falhou"        # tratamento de erro
 - Update docs — iteration 15 (2015)
 - Tweak implementation — iteration 22 (2015)
 - Update config — iteration 26 (2015)
+- Update docs — iteration 27 (2015)
