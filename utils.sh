@@ -11,3 +11,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Update dependencies — iteration 20 (2015)
 - Add helper — iteration 21 (2015)
 - Update config — iteration 23 (2015)
+- Improve naming — iteration 37 (2015)
