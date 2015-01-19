@@ -22,3 +22,4 @@ cmd || die "falhou"        # tratamento de erro
 - Optimize performance — iteration 42 (2015)
 - Add feature — iteration 44 (2015)
 - Extend coverage — iteration 45 (2015)
+- Polish code — iteration 48 (2015)
