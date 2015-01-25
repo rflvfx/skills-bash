@@ -18,3 +18,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Fix typo — iteration 57 (2015)
 - Improve error handling — iteration 58 (2015)
 - Fix lint warnings — iteration 59 (2015)
+- Fix edge case — iteration 60 (2015)
