@@ -4,3 +4,4 @@
 - Improve naming — iteration 10 (2015)
 - Add helper — iteration 11 (2015)
 - Extend coverage — iteration 14 (2015)
+- Add tests — iteration 19 (2015)
