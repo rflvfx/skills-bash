@@ -6,3 +6,4 @@
 - Extend coverage — iteration 14 (2015)
 - Add tests — iteration 19 (2015)
 - Add example — iteration 24 (2015)
+- Refactor module — iteration 29 (2015)
