@@ -16,3 +16,4 @@ cmd || die "falhou"        # tratamento de erro
 - Update docs — iteration 27 (2015)
 - Fix edge case — iteration 30 (2015)
 - Fix typo — iteration 32 (2015)
+- Polish code — iteration 33 (2015)
