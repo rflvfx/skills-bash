@@ -19,3 +19,4 @@ cmd || die "falhou"        # tratamento de erro
 - Polish code — iteration 33 (2015)
 - Document usage — iteration 38 (2015)
 - Fix lint warnings — iteration 40 (2015)
+- Optimize performance — iteration 42 (2015)
