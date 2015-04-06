@@ -15,3 +15,4 @@ cmd || die "falhou"        # tratamento de erro
 - Update config — iteration 26 (2015)
 - Update docs — iteration 27 (2015)
 - Fix edge case — iteration 30 (2015)
+- Fix typo — iteration 32 (2015)
