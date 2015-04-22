@@ -10,3 +10,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Tweak implementation — iteration 18 (2015)
 - Update dependencies — iteration 20 (2015)
 - Add helper — iteration 21 (2015)
+- Update config — iteration 23 (2015)
