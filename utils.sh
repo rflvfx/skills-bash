@@ -6,3 +6,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Add validation — iteration 6 (2015)
 - Update config — iteration 7 (2015)
 - Tweak implementation — iteration 8 (2015)
+- Optimize performance — iteration 12 (2015)
