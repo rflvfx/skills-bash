@@ -9,3 +9,4 @@ cmd || die "falhou"        # tratamento de erro
 ```
 - Improve error handling — iteration 2 (2015)
 - Add validation — iteration 4 (2015)
+- Polish code — iteration 13 (2015)
