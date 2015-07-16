@@ -24,3 +24,4 @@ cmd || die "falhou"        # tratamento de erro
 - Extend coverage — iteration 45 (2015)
 - Polish code — iteration 48 (2015)
 - Fix edge case — iteration 51 (2015)
+- Update config — iteration 55 (2015)
