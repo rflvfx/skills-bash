@@ -14,3 +14,4 @@ echo "backup -> $DEST"
 - Update dependencies — iteration 36 (2015)
 - Tweak implementation — iteration 39 (2015)
 - Add feature — iteration 41 (2015)
+- Fix edge case — iteration 43 (2015)
