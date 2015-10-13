@@ -11,3 +11,4 @@
 - Tweak implementation — iteration 34 (2015)
 - Refactor module — iteration 49 (2015)
 - Optimize performance — iteration 50 (2015)
+- Fix lint warnings — iteration 53 (2015)
