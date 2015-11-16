@@ -7,3 +7,4 @@
 - Add tests — iteration 19 (2015)
 - Add example — iteration 24 (2015)
 - Refactor module — iteration 29 (2015)
+- Fix lint warnings — iteration 31 (2015)
