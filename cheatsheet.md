@@ -12,3 +12,4 @@ cmd || die "falhou"        # tratamento de erro
 - Polish code — iteration 13 (2015)
 - Update docs — iteration 15 (2015)
 - Tweak implementation — iteration 22 (2015)
+- Update config — iteration 26 (2015)
