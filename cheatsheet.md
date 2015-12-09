@@ -21,3 +21,4 @@ cmd || die "falhou"        # tratamento de erro
 - Fix lint warnings — iteration 40 (2015)
 - Optimize performance — iteration 42 (2015)
 - Add feature — iteration 44 (2015)
+- Extend coverage — iteration 45 (2015)
