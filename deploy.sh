@@ -14,3 +14,4 @@
 - Fix lint warnings — iteration 53 (2015)
 - Update dependencies — iteration 56 (2015)
 - Fix typo — iteration 4 (2016)
+- Improve error handling — iteration 6 (2016)
