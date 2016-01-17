@@ -19,3 +19,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Improve error handling — iteration 58 (2015)
 - Fix lint warnings — iteration 59 (2015)
 - Fix edge case — iteration 60 (2015)
+- Refactor module — iteration 2 (2016)
