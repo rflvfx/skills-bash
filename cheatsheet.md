@@ -38,3 +38,4 @@ cmd || die "falhou"        # tratamento de erro
 - Refactor module — iteration 53 (2016)
 - Fix lint warnings — iteration 54 (2016)
 - Optimize performance — iteration 55 (2016)
+- Improve error handling — iteration 58 (2016)
