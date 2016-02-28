@@ -28,3 +28,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add validation — iteration 5 (2016)
 - Fix lint warnings — iteration 9 (2016)
 - Document usage — iteration 24 (2016)
+- Extend coverage — iteration 25 (2016)
