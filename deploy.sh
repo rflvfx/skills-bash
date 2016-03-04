@@ -26,3 +26,4 @@
 - Improve naming — iteration 31 (2016)
 - Refactor module — iteration 32 (2016)
 - Add helper — iteration 35 (2016)
+- Fix typo — iteration 39 (2016)
