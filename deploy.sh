@@ -17,3 +17,4 @@
 - Improve error handling — iteration 6 (2016)
 - Add example — iteration 7 (2016)
 - Update config — iteration 11 (2016)
+- Add tests — iteration 12 (2016)
