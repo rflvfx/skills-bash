@@ -36,3 +36,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add tests — iteration 41 (2016)
 - Document usage — iteration 50 (2016)
 - Refactor module — iteration 53 (2016)
+- Fix lint warnings — iteration 54 (2016)
