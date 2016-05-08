@@ -16,3 +16,4 @@
 - Fix typo — iteration 4 (2016)
 - Improve error handling — iteration 6 (2016)
 - Add example — iteration 7 (2016)
+- Update config — iteration 11 (2016)
