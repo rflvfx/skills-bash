@@ -21,3 +21,4 @@ echo "backup -> $DEST"
 - Refactor module — iteration 8 (2016)
 - Refactor module — iteration 10 (2016)
 - Polish code — iteration 18 (2016)
+- Fix edge case — iteration 21 (2016)
