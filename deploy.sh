@@ -28,3 +28,4 @@
 - Add helper — iteration 35 (2016)
 - Fix typo — iteration 39 (2016)
 - Add feature — iteration 42 (2016)
+- Update dependencies — iteration 45 (2016)
