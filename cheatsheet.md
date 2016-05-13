@@ -25,3 +25,4 @@ cmd || die "falhou"        # tratamento de erro
 - Polish code — iteration 48 (2015)
 - Fix edge case — iteration 51 (2015)
 - Update config — iteration 55 (2015)
+- Add validation — iteration 5 (2016)
