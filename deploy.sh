@@ -20,3 +20,4 @@
 - Add tests — iteration 12 (2016)
 - Extend coverage — iteration 15 (2016)
 - Update dependencies — iteration 17 (2016)
+- Add example — iteration 19 (2016)
