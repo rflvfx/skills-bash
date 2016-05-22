@@ -24,3 +24,4 @@
 - Update dependencies — iteration 26 (2016)
 - Document usage — iteration 29 (2016)
 - Improve naming — iteration 31 (2016)
+- Refactor module — iteration 32 (2016)
