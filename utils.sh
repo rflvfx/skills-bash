@@ -21,3 +21,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Fix edge case — iteration 60 (2015)
 - Refactor module — iteration 2 (2016)
 - Optimize performance — iteration 13 (2016)
+- Add tests — iteration 14 (2016)
