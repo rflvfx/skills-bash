@@ -23,3 +23,4 @@ echo "backup -> $DEST"
 - Polish code — iteration 18 (2016)
 - Fix edge case — iteration 21 (2016)
 - Add tests — iteration 22 (2016)
+- Update dependencies — iteration 23 (2016)
