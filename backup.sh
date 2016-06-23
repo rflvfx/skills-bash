@@ -22,3 +22,4 @@ echo "backup -> $DEST"
 - Refactor module — iteration 10 (2016)
 - Polish code — iteration 18 (2016)
 - Fix edge case — iteration 21 (2016)
+- Add tests — iteration 22 (2016)
