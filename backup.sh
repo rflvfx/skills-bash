@@ -28,3 +28,4 @@ echo "backup -> $DEST"
 - Add helper — iteration 30 (2016)
 - Add tests — iteration 33 (2016)
 - Fix edge case — iteration 40 (2016)
+- Update docs — iteration 43 (2016)
