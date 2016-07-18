@@ -27,3 +27,4 @@ cmd || die "falhou"        # tratamento de erro
 - Update config — iteration 55 (2015)
 - Add validation — iteration 5 (2016)
 - Fix lint warnings — iteration 9 (2016)
+- Document usage — iteration 24 (2016)
