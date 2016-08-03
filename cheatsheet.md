@@ -33,3 +33,4 @@ cmd || die "falhou"        # tratamento de erro
 - Extend coverage — iteration 36 (2016)
 - Add helper — iteration 37 (2016)
 - Fix typo — iteration 38 (2016)
+- Add tests — iteration 41 (2016)
