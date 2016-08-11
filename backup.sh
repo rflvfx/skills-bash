@@ -16,3 +16,4 @@ echo "backup -> $DEST"
 - Add feature — iteration 41 (2015)
 - Fix edge case — iteration 43 (2015)
 - Add tests — iteration 52 (2015)
+- Minor cleanup — iteration 1 (2016)
