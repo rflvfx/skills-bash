@@ -26,3 +26,4 @@ echo "backup -> $DEST"
 - Update dependencies — iteration 23 (2016)
 - Extend coverage — iteration 28 (2016)
 - Add helper — iteration 30 (2016)
+- Add tests — iteration 33 (2016)
