@@ -30,3 +30,4 @@ cmd || die "falhou"        # tratamento de erro
 - Document usage — iteration 24 (2016)
 - Extend coverage — iteration 25 (2016)
 - Add helper — iteration 34 (2016)
+- Extend coverage — iteration 36 (2016)
