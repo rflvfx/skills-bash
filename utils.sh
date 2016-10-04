@@ -24,3 +24,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Add tests — iteration 14 (2016)
 - Improve naming — iteration 16 (2016)
 - Refactor module — iteration 20 (2016)
+- Fix lint warnings — iteration 27 (2016)
