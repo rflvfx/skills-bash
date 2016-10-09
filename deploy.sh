@@ -31,3 +31,4 @@
 - Update dependencies — iteration 45 (2016)
 - Polish code — iteration 46 (2016)
 - Improve naming — iteration 51 (2016)
+- Optimize performance — iteration 52 (2016)
