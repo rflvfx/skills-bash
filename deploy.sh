@@ -18,3 +18,4 @@
 - Add example — iteration 7 (2016)
 - Update config — iteration 11 (2016)
 - Add tests — iteration 12 (2016)
+- Extend coverage — iteration 15 (2016)
