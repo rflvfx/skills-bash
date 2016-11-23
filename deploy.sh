@@ -23,3 +23,4 @@
 - Add example — iteration 19 (2016)
 - Update dependencies — iteration 26 (2016)
 - Document usage — iteration 29 (2016)
+- Improve naming — iteration 31 (2016)
