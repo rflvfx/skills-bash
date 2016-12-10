@@ -25,3 +25,4 @@
 - Document usage — iteration 29 (2016)
 - Improve naming — iteration 31 (2016)
 - Refactor module — iteration 32 (2016)
+- Add helper — iteration 35 (2016)
