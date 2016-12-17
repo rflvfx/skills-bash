@@ -35,3 +35,4 @@ cmd || die "falhou"        # tratamento de erro
 - Fix typo — iteration 38 (2016)
 - Add tests — iteration 41 (2016)
 - Document usage — iteration 50 (2016)
+- Refactor module — iteration 53 (2016)
