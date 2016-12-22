@@ -20,3 +20,4 @@ echo "backup -> $DEST"
 - Improve naming — iteration 3 (2016)
 - Refactor module — iteration 8 (2016)
 - Refactor module — iteration 10 (2016)
+- Polish code — iteration 18 (2016)
