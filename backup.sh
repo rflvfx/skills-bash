@@ -18,3 +18,4 @@ echo "backup -> $DEST"
 - Add tests — iteration 52 (2015)
 - Minor cleanup — iteration 1 (2016)
 - Improve naming — iteration 3 (2016)
+- Refactor module — iteration 8 (2016)
