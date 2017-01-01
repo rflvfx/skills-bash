@@ -41,3 +41,4 @@
 - Improve naming — iteration 10 (2017)
 - Refactor module — iteration 15 (2017)
 - Minor cleanup — iteration 17 (2017)
+- Polish code — iteration 18 (2017)
