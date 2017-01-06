@@ -27,3 +27,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Fix lint warnings — iteration 27 (2016)
 - Improve error handling — iteration 48 (2016)
 - Polish code — iteration 49 (2016)
+- Update config — iteration 6 (2017)
