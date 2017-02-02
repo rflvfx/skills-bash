@@ -43,3 +43,4 @@ echo "backup -> $DEST"
 - Fix edge case — iteration 46 (2017)
 - Add tests — iteration 56 (2017)
 - Fix lint warnings — iteration 57 (2017)
+- Refactor module — iteration 58 (2017)
