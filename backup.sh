@@ -40,3 +40,4 @@ echo "backup -> $DEST"
 - Tweak implementation — iteration 27 (2017)
 - Extend coverage — iteration 36 (2017)
 - Extend coverage — iteration 43 (2017)
+- Fix edge case — iteration 46 (2017)
