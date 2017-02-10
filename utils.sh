@@ -32,3 +32,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Fix typo — iteration 9 (2017)
 - Fix typo — iteration 14 (2017)
 - Add validation — iteration 19 (2017)
+- Add validation — iteration 21 (2017)
