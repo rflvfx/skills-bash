@@ -40,3 +40,4 @@
 - Add helper — iteration 5 (2017)
 - Improve naming — iteration 10 (2017)
 - Refactor module — iteration 15 (2017)
+- Minor cleanup — iteration 17 (2017)
