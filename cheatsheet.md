@@ -47,3 +47,4 @@ cmd || die "falhou"        # tratamento de erro
 - Fix edge case — iteration 26 (2017)
 - Fix lint warnings — iteration 33 (2017)
 - Add feature — iteration 35 (2017)
+- Update dependencies — iteration 37 (2017)
