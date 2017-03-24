@@ -44,3 +44,4 @@ cmd || die "falhou"        # tratamento de erro
 - Refactor module — iteration 12 (2017)
 - Minor cleanup — iteration 16 (2017)
 - Refactor module — iteration 25 (2017)
+- Fix edge case — iteration 26 (2017)
