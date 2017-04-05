@@ -47,3 +47,4 @@
 - Tweak implementation — iteration 38 (2017)
 - Improve naming — iteration 40 (2017)
 - Add helper — iteration 42 (2017)
+- Update config — iteration 44 (2017)
