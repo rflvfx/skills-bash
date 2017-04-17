@@ -48,3 +48,4 @@
 - Improve naming — iteration 40 (2017)
 - Add helper — iteration 42 (2017)
 - Update config — iteration 44 (2017)
+- Minor cleanup — iteration 47 (2017)
