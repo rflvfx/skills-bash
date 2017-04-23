@@ -34,3 +34,4 @@ echo "backup -> $DEST"
 - Tweak implementation — iteration 2 (2017)
 - Extend coverage — iteration 7 (2017)
 - Refactor module — iteration 13 (2017)
+- Document usage — iteration 20 (2017)
