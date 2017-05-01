@@ -38,3 +38,4 @@
 - Improve naming — iteration 1 (2017)
 - Add example — iteration 4 (2017)
 - Add helper — iteration 5 (2017)
+- Improve naming — iteration 10 (2017)
