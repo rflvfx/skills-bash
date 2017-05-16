@@ -37,3 +37,4 @@ echo "backup -> $DEST"
 - Document usage — iteration 20 (2017)
 - Document usage — iteration 22 (2017)
 - Add validation — iteration 24 (2017)
+- Tweak implementation — iteration 27 (2017)
