@@ -36,3 +36,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Update config — iteration 23 (2017)
 - Fix edge case — iteration 28 (2017)
 - Add tests — iteration 29 (2017)
+- Document usage — iteration 30 (2017)
