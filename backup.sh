@@ -32,3 +32,4 @@ echo "backup -> $DEST"
 - Add tests — iteration 44 (2016)
 - Fix lint warnings — iteration 47 (2016)
 - Tweak implementation — iteration 2 (2017)
+- Extend coverage — iteration 7 (2017)
