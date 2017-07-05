@@ -41,3 +41,4 @@ cmd || die "falhou"        # tratamento de erro
 - Improve error handling — iteration 58 (2016)
 - Improve error handling — iteration 3 (2017)
 - Update dependencies — iteration 11 (2017)
+- Refactor module — iteration 12 (2017)
