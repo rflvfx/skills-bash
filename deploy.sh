@@ -36,3 +36,4 @@
 - Minor cleanup — iteration 57 (2016)
 - Fix edge case — iteration 59 (2016)
 - Improve naming — iteration 1 (2017)
+- Add example — iteration 4 (2017)
