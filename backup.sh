@@ -38,3 +38,4 @@ echo "backup -> $DEST"
 - Document usage — iteration 22 (2017)
 - Add validation — iteration 24 (2017)
 - Tweak implementation — iteration 27 (2017)
+- Extend coverage — iteration 36 (2017)
