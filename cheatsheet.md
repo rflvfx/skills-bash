@@ -48,3 +48,4 @@ cmd || die "falhou"        # tratamento de erro
 - Fix lint warnings — iteration 33 (2017)
 - Add feature — iteration 35 (2017)
 - Update dependencies — iteration 37 (2017)
+- Improve error handling — iteration 39 (2017)
