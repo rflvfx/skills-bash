@@ -40,3 +40,4 @@ cmd || die "falhou"        # tratamento de erro
 - Optimize performance — iteration 55 (2016)
 - Improve error handling — iteration 58 (2016)
 - Improve error handling — iteration 3 (2017)
+- Update dependencies — iteration 11 (2017)
