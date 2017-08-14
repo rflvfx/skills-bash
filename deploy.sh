@@ -53,3 +53,4 @@
 - Tweak implementation — iteration 49 (2017)
 - Improve error handling — iteration 51 (2017)
 - Refactor module — iteration 52 (2017)
+- Update dependencies — iteration 53 (2017)
