@@ -46,3 +46,4 @@ cmd || die "falhou"        # tratamento de erro
 - Refactor module — iteration 25 (2017)
 - Fix edge case — iteration 26 (2017)
 - Fix lint warnings — iteration 33 (2017)
+- Add feature — iteration 35 (2017)
