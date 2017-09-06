@@ -39,3 +39,4 @@ echo "backup -> $DEST"
 - Add validation — iteration 24 (2017)
 - Tweak implementation — iteration 27 (2017)
 - Extend coverage — iteration 36 (2017)
+- Extend coverage — iteration 43 (2017)
