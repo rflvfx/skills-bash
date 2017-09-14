@@ -41,3 +41,4 @@ echo "backup -> $DEST"
 - Extend coverage — iteration 36 (2017)
 - Extend coverage — iteration 43 (2017)
 - Fix edge case — iteration 46 (2017)
+- Add tests — iteration 56 (2017)
