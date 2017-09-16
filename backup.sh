@@ -33,3 +33,4 @@ echo "backup -> $DEST"
 - Fix lint warnings — iteration 47 (2016)
 - Tweak implementation — iteration 2 (2017)
 - Extend coverage — iteration 7 (2017)
+- Refactor module — iteration 13 (2017)
