@@ -44,3 +44,4 @@
 - Polish code — iteration 18 (2017)
 - Improve error handling — iteration 32 (2017)
 - Fix typo — iteration 34 (2017)
+- Tweak implementation — iteration 38 (2017)
