@@ -42,3 +42,4 @@
 - Refactor module — iteration 15 (2017)
 - Minor cleanup — iteration 17 (2017)
 - Polish code — iteration 18 (2017)
+- Improve error handling — iteration 32 (2017)
