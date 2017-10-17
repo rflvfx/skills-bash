@@ -38,3 +38,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Add tests — iteration 29 (2017)
 - Document usage — iteration 30 (2017)
 - Improve naming — iteration 31 (2017)
+- Improve naming — iteration 41 (2017)
