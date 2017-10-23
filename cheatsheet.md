@@ -50,3 +50,4 @@ cmd || die "falhou"        # tratamento de erro
 - Update dependencies — iteration 37 (2017)
 - Improve error handling — iteration 39 (2017)
 - Document usage — iteration 45 (2017)
+- Add helper — iteration 59 (2017)
