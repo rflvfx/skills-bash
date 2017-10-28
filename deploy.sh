@@ -51,3 +51,4 @@
 - Minor cleanup — iteration 47 (2017)
 - Add validation — iteration 48 (2017)
 - Tweak implementation — iteration 49 (2017)
+- Improve error handling — iteration 51 (2017)
