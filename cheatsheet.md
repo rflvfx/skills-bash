@@ -43,3 +43,4 @@ cmd || die "falhou"        # tratamento de erro
 - Update dependencies — iteration 11 (2017)
 - Refactor module — iteration 12 (2017)
 - Minor cleanup — iteration 16 (2017)
+- Refactor module — iteration 25 (2017)
