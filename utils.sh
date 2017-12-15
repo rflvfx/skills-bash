@@ -30,3 +30,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Update config — iteration 6 (2017)
 - Add feature — iteration 8 (2017)
 - Fix typo — iteration 9 (2017)
+- Fix typo — iteration 14 (2017)
