@@ -28,3 +28,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Improve error handling — iteration 48 (2016)
 - Polish code — iteration 49 (2016)
 - Update config — iteration 6 (2017)
+- Add feature — iteration 8 (2017)
