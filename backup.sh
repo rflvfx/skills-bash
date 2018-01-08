@@ -47,3 +47,4 @@ echo "backup -> $DEST"
 - Fix typo — iteration 5 (2018)
 - Add feature — iteration 8 (2018)
 - Update config — iteration 12 (2018)
+- Document usage — iteration 18 (2018)
