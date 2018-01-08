@@ -65,3 +65,4 @@ cmd || die "falhou"        # tratamento de erro
 - Refactor module — iteration 40 (2018)
 - Polish code — iteration 41 (2018)
 - Document usage — iteration 45 (2018)
+- Extend coverage — iteration 46 (2018)
