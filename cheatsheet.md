@@ -58,3 +58,4 @@ cmd || die "falhou"        # tratamento de erro
 - Fix typo — iteration 16 (2018)
 - Polish code — iteration 17 (2018)
 - Add tests — iteration 22 (2018)
+- Optimize performance — iteration 24 (2018)
