@@ -54,3 +54,4 @@ cmd || die "falhou"        # tratamento de erro
 - Fix edge case — iteration 1 (2018)
 - Add feature — iteration 7 (2018)
 - Document usage — iteration 10 (2018)
+- Minor cleanup — iteration 13 (2018)
