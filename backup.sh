@@ -46,3 +46,4 @@ echo "backup -> $DEST"
 - Refactor module — iteration 58 (2017)
 - Fix typo — iteration 5 (2018)
 - Add feature — iteration 8 (2018)
+- Update config — iteration 12 (2018)
