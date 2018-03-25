@@ -57,3 +57,4 @@ cmd || die "falhou"        # tratamento de erro
 - Minor cleanup — iteration 13 (2018)
 - Fix typo — iteration 16 (2018)
 - Polish code — iteration 17 (2018)
+- Add tests — iteration 22 (2018)
