@@ -64,3 +64,4 @@ cmd || die "falhou"        # tratamento de erro
 - Improve error handling — iteration 33 (2018)
 - Refactor module — iteration 40 (2018)
 - Polish code — iteration 41 (2018)
+- Document usage — iteration 45 (2018)
