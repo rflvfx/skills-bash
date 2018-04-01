@@ -55,3 +55,4 @@
 - Refactor module — iteration 52 (2017)
 - Update dependencies — iteration 53 (2017)
 - Add example — iteration 60 (2017)
+- Update docs — iteration 3 (2018)
