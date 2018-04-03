@@ -50,3 +50,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Update dependencies — iteration 25 (2018)
 - Update dependencies — iteration 28 (2018)
 - Fix lint warnings — iteration 31 (2018)
+- Document usage — iteration 34 (2018)
