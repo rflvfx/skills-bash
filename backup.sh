@@ -50,3 +50,4 @@ echo "backup -> $DEST"
 - Document usage — iteration 18 (2018)
 - Fix edge case — iteration 19 (2018)
 - Refactor module — iteration 21 (2018)
+- Add example — iteration 29 (2018)
