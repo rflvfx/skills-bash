@@ -67,3 +67,4 @@ cmd || die "falhou"        # tratamento de erro
 - Document usage — iteration 45 (2018)
 - Extend coverage — iteration 46 (2018)
 - Minor cleanup — iteration 52 (2018)
+- Minor cleanup — iteration 56 (2018)
