@@ -64,3 +64,4 @@
 - Update docs — iteration 42 (2018)
 - Fix typo — iteration 44 (2018)
 - Extend coverage — iteration 47 (2018)
+- Update docs — iteration 49 (2018)
