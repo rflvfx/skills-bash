@@ -53,3 +53,4 @@ echo "backup -> $DEST"
 - Add example — iteration 29 (2018)
 - Improve error handling — iteration 30 (2018)
 - Improve error handling — iteration 32 (2018)
+- Add validation — iteration 37 (2018)
