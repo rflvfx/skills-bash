@@ -53,3 +53,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Document usage — iteration 34 (2018)
 - Update docs — iteration 35 (2018)
 - Add helper — iteration 38 (2018)
+- Optimize performance — iteration 39 (2018)
