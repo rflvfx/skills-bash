@@ -47,3 +47,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Optimize performance — iteration 6 (2018)
 - Fix edge case — iteration 20 (2018)
 - Add example — iteration 23 (2018)
+- Update dependencies — iteration 25 (2018)
