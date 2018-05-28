@@ -45,3 +45,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Refactor module — iteration 2 (2018)
 - Minor cleanup — iteration 4 (2018)
 - Optimize performance — iteration 6 (2018)
+- Fix edge case — iteration 20 (2018)
