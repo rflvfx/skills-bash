@@ -44,3 +44,4 @@ echo "backup -> $DEST"
 - Add tests — iteration 56 (2017)
 - Fix lint warnings — iteration 57 (2017)
 - Refactor module — iteration 58 (2017)
+- Fix typo — iteration 5 (2018)
