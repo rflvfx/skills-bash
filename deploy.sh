@@ -57,3 +57,4 @@
 - Add example — iteration 60 (2017)
 - Update docs — iteration 3 (2018)
 - Refactor module — iteration 9 (2018)
+- Fix lint warnings — iteration 11 (2018)
