@@ -59,3 +59,4 @@ cmd || die "falhou"        # tratamento de erro
 - Polish code — iteration 17 (2018)
 - Add tests — iteration 22 (2018)
 - Optimize performance — iteration 24 (2018)
+- Refactor module — iteration 26 (2018)
