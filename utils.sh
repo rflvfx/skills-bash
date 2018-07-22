@@ -58,3 +58,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Update dependencies — iteration 50 (2018)
 - Fix edge case — iteration 53 (2018)
 - Extend coverage — iteration 58 (2018)
+- Add feature — iteration 60 (2018)
