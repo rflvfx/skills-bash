@@ -42,3 +42,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Improve naming — iteration 50 (2017)
 - Add tests — iteration 54 (2017)
 - Minor cleanup — iteration 55 (2017)
+- Refactor module — iteration 2 (2018)
