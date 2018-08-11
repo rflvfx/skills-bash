@@ -61,3 +61,4 @@
 - Improve naming — iteration 14 (2018)
 - Fix lint warnings — iteration 15 (2018)
 - Fix lint warnings — iteration 36 (2018)
+- Update docs — iteration 42 (2018)
