@@ -51,3 +51,4 @@ echo "backup -> $DEST"
 - Fix edge case — iteration 19 (2018)
 - Refactor module — iteration 21 (2018)
 - Add example — iteration 29 (2018)
+- Improve error handling — iteration 30 (2018)
