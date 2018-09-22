@@ -66,3 +66,4 @@
 - Extend coverage — iteration 47 (2018)
 - Update docs — iteration 49 (2018)
 - Improve error handling — iteration 55 (2018)
+- Fix edge case — iteration 57 (2018)
