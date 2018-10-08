@@ -68,3 +68,4 @@ cmd || die "falhou"        # tratamento de erro
 - Extend coverage — iteration 46 (2018)
 - Minor cleanup — iteration 52 (2018)
 - Minor cleanup — iteration 56 (2018)
+- Add validation — iteration 59 (2018)
