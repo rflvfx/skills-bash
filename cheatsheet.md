@@ -66,3 +66,4 @@ cmd || die "falhou"        # tratamento de erro
 - Polish code — iteration 41 (2018)
 - Document usage — iteration 45 (2018)
 - Extend coverage — iteration 46 (2018)
+- Minor cleanup — iteration 52 (2018)
