@@ -61,3 +61,4 @@ cmd || die "falhou"        # tratamento de erro
 - Optimize performance — iteration 24 (2018)
 - Refactor module — iteration 26 (2018)
 - Improve error handling — iteration 27 (2018)
+- Improve error handling — iteration 33 (2018)
