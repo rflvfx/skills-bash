@@ -49,3 +49,4 @@ echo "backup -> $DEST"
 - Update config — iteration 12 (2018)
 - Document usage — iteration 18 (2018)
 - Fix edge case — iteration 19 (2018)
+- Refactor module — iteration 21 (2018)
