@@ -56,3 +56,4 @@ echo "backup -> $DEST"
 - Add validation — iteration 37 (2018)
 - Extend coverage — iteration 48 (2018)
 - Extend coverage — iteration 51 (2018)
+- Refactor module — iteration 54 (2018)
