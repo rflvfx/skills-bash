@@ -48,3 +48,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Fix edge case — iteration 20 (2018)
 - Add example — iteration 23 (2018)
 - Update dependencies — iteration 25 (2018)
+- Update dependencies — iteration 28 (2018)
