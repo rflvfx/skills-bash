@@ -55,3 +55,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add feature — iteration 7 (2018)
 - Document usage — iteration 10 (2018)
 - Minor cleanup — iteration 13 (2018)
+- Fix typo — iteration 16 (2018)
