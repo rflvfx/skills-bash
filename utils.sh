@@ -62,3 +62,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Improve error handling — iteration 5 (2019)
 - Add validation — iteration 14 (2019)
 - Fix typo — iteration 15 (2019)
+- Minor cleanup — iteration 17 (2019)
