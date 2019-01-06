@@ -69,3 +69,4 @@
 - Fix edge case — iteration 57 (2018)
 - Add validation — iteration 1 (2019)
 - Add example — iteration 2 (2019)
+- Update config — iteration 6 (2019)
