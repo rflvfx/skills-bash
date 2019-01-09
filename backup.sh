@@ -61,3 +61,4 @@ echo "backup -> $DEST"
 - Tweak implementation — iteration 8 (2019)
 - Update docs — iteration 10 (2019)
 - Update dependencies — iteration 11 (2019)
+- Optimize performance — iteration 13 (2019)
