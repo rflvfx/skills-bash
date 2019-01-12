@@ -71,3 +71,4 @@
 - Add example — iteration 2 (2019)
 - Update config — iteration 6 (2019)
 - Add feature — iteration 9 (2019)
+- Update docs — iteration 12 (2019)
