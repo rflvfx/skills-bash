@@ -59,3 +59,4 @@ echo "backup -> $DEST"
 - Refactor module — iteration 54 (2018)
 - Document usage — iteration 3 (2019)
 - Tweak implementation — iteration 8 (2019)
+- Update docs — iteration 10 (2019)
