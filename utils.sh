@@ -67,3 +67,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Fix edge case — iteration 22 (2019)
 - Improve naming — iteration 23 (2019)
 - Add example — iteration 24 (2019)
+- Improve naming — iteration 26 (2019)
