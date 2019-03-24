@@ -75,3 +75,4 @@ cmd || die "falhou"        # tratamento de erro
 - Improve naming — iteration 18 (2019)
 - Add example — iteration 20 (2019)
 - Refactor module — iteration 34 (2019)
+- Extend coverage — iteration 42 (2019)
