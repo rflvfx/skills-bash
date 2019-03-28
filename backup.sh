@@ -64,3 +64,4 @@ echo "backup -> $DEST"
 - Optimize performance — iteration 13 (2019)
 - Fix edge case — iteration 19 (2019)
 - Fix typo — iteration 25 (2019)
+- Fix typo — iteration 27 (2019)
