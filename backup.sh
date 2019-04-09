@@ -68,3 +68,4 @@ echo "backup -> $DEST"
 - Add helper — iteration 33 (2019)
 - Update docs — iteration 36 (2019)
 - Update dependencies — iteration 38 (2019)
+- Optimize performance — iteration 45 (2019)
