@@ -71,3 +71,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add validation — iteration 59 (2018)
 - Refactor module — iteration 4 (2019)
 - Add feature — iteration 7 (2019)
+- Add example — iteration 16 (2019)
