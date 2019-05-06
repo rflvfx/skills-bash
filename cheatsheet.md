@@ -70,3 +70,4 @@ cmd || die "falhou"        # tratamento de erro
 - Minor cleanup — iteration 56 (2018)
 - Add validation — iteration 59 (2018)
 - Refactor module — iteration 4 (2019)
+- Add feature — iteration 7 (2019)
