@@ -78,3 +78,4 @@ cmd || die "falhou"        # tratamento de erro
 - Extend coverage — iteration 42 (2019)
 - Fix typo — iteration 43 (2019)
 - Improve naming — iteration 58 (2019)
+- Polish code — iteration 59 (2019)
