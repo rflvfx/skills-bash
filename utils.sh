@@ -59,3 +59,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Fix edge case — iteration 53 (2018)
 - Extend coverage — iteration 58 (2018)
 - Add feature — iteration 60 (2018)
+- Improve error handling — iteration 5 (2019)
