@@ -71,3 +71,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Add feature — iteration 29 (2019)
 - Update docs — iteration 30 (2019)
 - Improve error handling — iteration 31 (2019)
+- Polish code — iteration 35 (2019)
