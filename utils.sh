@@ -78,3 +78,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Add validation — iteration 44 (2019)
 - Document usage — iteration 47 (2019)
 - Minor cleanup — iteration 48 (2019)
+- Fix lint warnings — iteration 49 (2019)
