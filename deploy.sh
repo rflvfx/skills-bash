@@ -76,3 +76,4 @@
 - Extend coverage — iteration 32 (2019)
 - Refactor module — iteration 37 (2019)
 - Update docs — iteration 50 (2019)
+- Update config — iteration 52 (2019)
