@@ -67,3 +67,4 @@ echo "backup -> $DEST"
 - Fix typo — iteration 27 (2019)
 - Add helper — iteration 33 (2019)
 - Update docs — iteration 36 (2019)
+- Update dependencies — iteration 38 (2019)
