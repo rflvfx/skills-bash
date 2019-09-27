@@ -73,3 +73,4 @@ echo "backup -> $DEST"
 - Add example — iteration 51 (2019)
 - Refactor module — iteration 53 (2019)
 - Optimize performance — iteration 56 (2019)
+- Extend coverage — iteration 60 (2019)
