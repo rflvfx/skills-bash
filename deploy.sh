@@ -73,3 +73,4 @@
 - Add feature — iteration 9 (2019)
 - Update docs — iteration 12 (2019)
 - Add example — iteration 28 (2019)
+- Extend coverage — iteration 32 (2019)
