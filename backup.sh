@@ -60,3 +60,4 @@ echo "backup -> $DEST"
 - Document usage — iteration 3 (2019)
 - Tweak implementation — iteration 8 (2019)
 - Update docs — iteration 10 (2019)
+- Update dependencies — iteration 11 (2019)
