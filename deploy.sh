@@ -74,3 +74,4 @@
 - Update docs — iteration 12 (2019)
 - Add example — iteration 28 (2019)
 - Extend coverage — iteration 32 (2019)
+- Refactor module — iteration 37 (2019)
