@@ -80,3 +80,4 @@ echo "backup -> $DEST"
 - Optimize performance — iteration 12 (2020)
 - Tweak implementation — iteration 17 (2020)
 - Improve error handling — iteration 20 (2020)
+- Update dependencies — iteration 29 (2020)
