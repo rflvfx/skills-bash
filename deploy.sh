@@ -92,3 +92,4 @@
 - Add tests — iteration 40 (2020)
 - Add validation — iteration 43 (2020)
 - Add tests — iteration 46 (2020)
+- Polish code — iteration 51 (2020)
