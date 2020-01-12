@@ -84,3 +84,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add example — iteration 7 (2020)
 - Update config — iteration 9 (2020)
 - Add validation — iteration 13 (2020)
+- Fix typo — iteration 16 (2020)
