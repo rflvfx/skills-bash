@@ -81,3 +81,4 @@
 - Update dependencies — iteration 4 (2020)
 - Document usage — iteration 14 (2020)
 - Document usage — iteration 18 (2020)
+- Add validation — iteration 22 (2020)
