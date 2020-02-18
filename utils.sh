@@ -95,3 +95,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Update config — iteration 52 (2020)
 - Polish code — iteration 57 (2020)
 - Improve error handling — iteration 58 (2020)
+- Update docs — iteration 59 (2020)
