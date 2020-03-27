@@ -87,3 +87,4 @@ cmd || die "falhou"        # tratamento de erro
 - Fix typo — iteration 16 (2020)
 - Improve error handling — iteration 21 (2020)
 - Fix typo — iteration 27 (2020)
+- Document usage — iteration 30 (2020)
