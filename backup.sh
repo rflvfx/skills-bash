@@ -76,3 +76,4 @@ echo "backup -> $DEST"
 - Extend coverage — iteration 60 (2019)
 - Refactor module — iteration 1 (2020)
 - Optimize performance — iteration 2 (2020)
+- Fix typo — iteration 8 (2020)
