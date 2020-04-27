@@ -81,3 +81,4 @@ cmd || die "falhou"        # tratamento de erro
 - Polish code — iteration 59 (2019)
 - Improve naming — iteration 5 (2020)
 - Update config — iteration 6 (2020)
+- Add example — iteration 7 (2020)
