@@ -87,3 +87,4 @@
 - Document usage — iteration 25 (2020)
 - Improve naming — iteration 32 (2020)
 - Add tests — iteration 33 (2020)
+- Refactor module — iteration 34 (2020)
