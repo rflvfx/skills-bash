@@ -90,3 +90,4 @@ cmd || die "falhou"        # tratamento de erro
 - Document usage — iteration 30 (2020)
 - Update docs — iteration 38 (2020)
 - Update dependencies — iteration 45 (2020)
+- Tweak implementation — iteration 49 (2020)
