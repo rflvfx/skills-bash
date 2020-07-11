@@ -92,3 +92,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Add example — iteration 44 (2020)
 - Fix typo — iteration 48 (2020)
 - Improve naming — iteration 50 (2020)
+- Update config — iteration 52 (2020)
