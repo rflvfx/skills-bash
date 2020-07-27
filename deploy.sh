@@ -78,3 +78,4 @@
 - Update docs — iteration 50 (2019)
 - Update config — iteration 52 (2019)
 - Update docs — iteration 3 (2020)
+- Update dependencies — iteration 4 (2020)
