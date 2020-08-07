@@ -82,3 +82,4 @@ cmd || die "falhou"        # tratamento de erro
 - Improve naming — iteration 5 (2020)
 - Update config — iteration 6 (2020)
 - Add example — iteration 7 (2020)
+- Update config — iteration 9 (2020)
