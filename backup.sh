@@ -85,3 +85,4 @@ echo "backup -> $DEST"
 - Update config — iteration 36 (2020)
 - Update config — iteration 37 (2020)
 - Add example — iteration 41 (2020)
+- Extend coverage — iteration 42 (2020)
