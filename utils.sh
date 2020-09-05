@@ -88,3 +88,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Add helper — iteration 19 (2020)
 - Polish code — iteration 26 (2020)
 - Add validation — iteration 28 (2020)
+- Add helper — iteration 39 (2020)
