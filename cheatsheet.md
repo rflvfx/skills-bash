@@ -83,3 +83,4 @@ cmd || die "falhou"        # tratamento de erro
 - Update config — iteration 6 (2020)
 - Add example — iteration 7 (2020)
 - Update config — iteration 9 (2020)
+- Add validation — iteration 13 (2020)
