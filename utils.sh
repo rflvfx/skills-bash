@@ -83,3 +83,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Update dependencies — iteration 55 (2019)
 - Add feature — iteration 57 (2019)
 - Add helper — iteration 10 (2020)
+- Minor cleanup — iteration 11 (2020)
