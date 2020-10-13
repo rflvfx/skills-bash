@@ -80,3 +80,4 @@
 - Update docs — iteration 3 (2020)
 - Update dependencies — iteration 4 (2020)
 - Document usage — iteration 14 (2020)
+- Document usage — iteration 18 (2020)
