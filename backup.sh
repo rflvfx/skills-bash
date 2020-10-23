@@ -78,3 +78,4 @@ echo "backup -> $DEST"
 - Optimize performance — iteration 2 (2020)
 - Fix typo — iteration 8 (2020)
 - Optimize performance — iteration 12 (2020)
+- Tweak implementation — iteration 17 (2020)
