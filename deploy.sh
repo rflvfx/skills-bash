@@ -89,3 +89,4 @@
 - Add tests — iteration 33 (2020)
 - Refactor module — iteration 34 (2020)
 - Document usage — iteration 35 (2020)
+- Add tests — iteration 40 (2020)
