@@ -81,3 +81,4 @@ echo "backup -> $DEST"
 - Tweak implementation — iteration 17 (2020)
 - Improve error handling — iteration 20 (2020)
 - Update dependencies — iteration 29 (2020)
+- Add helper — iteration 31 (2020)
