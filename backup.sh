@@ -87,3 +87,4 @@ echo "backup -> $DEST"
 - Add example — iteration 41 (2020)
 - Extend coverage — iteration 42 (2020)
 - Fix lint warnings — iteration 47 (2020)
+- Fix typo — iteration 53 (2020)
