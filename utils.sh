@@ -90,3 +90,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Add validation — iteration 28 (2020)
 - Add helper — iteration 39 (2020)
 - Add example — iteration 44 (2020)
+- Fix typo — iteration 48 (2020)
