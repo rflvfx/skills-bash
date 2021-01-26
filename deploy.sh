@@ -104,3 +104,4 @@
 - Extend coverage — iteration 16 (2021)
 - Document usage — iteration 19 (2021)
 - Add helper — iteration 20 (2021)
+- Update config — iteration 21 (2021)
