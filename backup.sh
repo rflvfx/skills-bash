@@ -91,3 +91,4 @@ echo "backup -> $DEST"
 - Add example — iteration 2 (2021)
 - Add helper — iteration 4 (2021)
 - Fix lint warnings — iteration 25 (2021)
+- Add validation — iteration 26 (2021)
