@@ -106,3 +106,4 @@ cmd || die "falhou"        # tratamento de erro
 - Tweak implementation — iteration 47 (2021)
 - Fix lint warnings — iteration 49 (2021)
 - Add validation — iteration 50 (2021)
+- Add validation — iteration 53 (2021)
