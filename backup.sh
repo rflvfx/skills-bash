@@ -95,3 +95,4 @@ echo "backup -> $DEST"
 - Refactor module — iteration 28 (2021)
 - Add feature — iteration 30 (2021)
 - Add tests — iteration 35 (2021)
+- Fix typo — iteration 37 (2021)
