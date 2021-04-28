@@ -104,3 +104,4 @@ cmd || die "falhou"        # tratamento de erro
 - Extend coverage — iteration 44 (2021)
 - Add helper — iteration 45 (2021)
 - Tweak implementation — iteration 47 (2021)
+- Fix lint warnings — iteration 49 (2021)
