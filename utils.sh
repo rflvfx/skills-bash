@@ -101,3 +101,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Fix lint warnings — iteration 9 (2021)
 - Tweak implementation — iteration 17 (2021)
 - Polish code — iteration 18 (2021)
+- Improve error handling — iteration 22 (2021)
