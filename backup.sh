@@ -97,3 +97,4 @@ echo "backup -> $DEST"
 - Add tests — iteration 35 (2021)
 - Fix typo — iteration 37 (2021)
 - Extend coverage — iteration 40 (2021)
+- Fix lint warnings — iteration 41 (2021)
