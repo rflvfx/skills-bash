@@ -109,3 +109,4 @@
 - Optimize performance — iteration 29 (2021)
 - Update dependencies — iteration 31 (2021)
 - Update config — iteration 32 (2021)
+- Update docs — iteration 36 (2021)
