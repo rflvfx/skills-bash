@@ -98,3 +98,4 @@ echo "backup -> $DEST"
 - Fix typo — iteration 37 (2021)
 - Extend coverage — iteration 40 (2021)
 - Fix lint warnings — iteration 41 (2021)
+- Fix lint warnings — iteration 43 (2021)
