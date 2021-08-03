@@ -89,3 +89,4 @@ echo "backup -> $DEST"
 - Fix lint warnings — iteration 47 (2020)
 - Fix typo — iteration 53 (2020)
 - Add example — iteration 2 (2021)
+- Add helper — iteration 4 (2021)
