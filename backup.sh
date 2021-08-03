@@ -100,3 +100,4 @@ echo "backup -> $DEST"
 - Fix lint warnings — iteration 41 (2021)
 - Fix lint warnings — iteration 43 (2021)
 - Improve naming — iteration 46 (2021)
+- Fix typo — iteration 48 (2021)
