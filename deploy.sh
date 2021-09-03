@@ -96,3 +96,4 @@
 - Document usage — iteration 54 (2020)
 - Fix edge case — iteration 55 (2020)
 - Update config — iteration 56 (2020)
+- Polish code — iteration 1 (2021)
