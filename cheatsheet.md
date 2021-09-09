@@ -96,3 +96,4 @@ cmd || die "falhou"        # tratamento de erro
 - Update config — iteration 8 (2021)
 - Fix edge case — iteration 10 (2021)
 - Add helper — iteration 11 (2021)
+- Extend coverage — iteration 13 (2021)
