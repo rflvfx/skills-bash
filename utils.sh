@@ -99,3 +99,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Extend coverage — iteration 3 (2021)
 - Fix typo — iteration 7 (2021)
 - Fix lint warnings — iteration 9 (2021)
+- Tweak implementation — iteration 17 (2021)
