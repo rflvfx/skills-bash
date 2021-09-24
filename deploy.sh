@@ -102,3 +102,4 @@
 - Fix lint warnings — iteration 14 (2021)
 - Add helper — iteration 15 (2021)
 - Extend coverage — iteration 16 (2021)
+- Document usage — iteration 19 (2021)
