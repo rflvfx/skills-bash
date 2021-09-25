@@ -110,3 +110,4 @@
 - Update dependencies — iteration 31 (2021)
 - Update config — iteration 32 (2021)
 - Update docs — iteration 36 (2021)
+- Fix lint warnings — iteration 38 (2021)
