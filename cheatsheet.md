@@ -100,3 +100,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add feature — iteration 27 (2021)
 - Fix typo — iteration 33 (2021)
 - Fix typo — iteration 39 (2021)
+- Optimize performance — iteration 42 (2021)
