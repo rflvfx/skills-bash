@@ -103,3 +103,4 @@ cmd || die "falhou"        # tratamento de erro
 - Optimize performance — iteration 42 (2021)
 - Extend coverage — iteration 44 (2021)
 - Add helper — iteration 45 (2021)
+- Tweak implementation — iteration 47 (2021)
