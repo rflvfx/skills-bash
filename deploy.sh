@@ -99,3 +99,4 @@
 - Polish code — iteration 1 (2021)
 - Add feature — iteration 5 (2021)
 - Update dependencies — iteration 12 (2021)
+- Fix lint warnings — iteration 14 (2021)
