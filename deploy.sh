@@ -127,3 +127,4 @@
 - Add example — iteration 39 (2022)
 - Tweak implementation — iteration 44 (2022)
 - Add tests — iteration 47 (2022)
+- Fix edge case — iteration 48 (2022)
