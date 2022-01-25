@@ -114,3 +114,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add feature — iteration 15 (2022)
 - Improve naming — iteration 16 (2022)
 - Add helper — iteration 17 (2022)
+- Add feature — iteration 26 (2022)
