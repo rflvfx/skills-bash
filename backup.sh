@@ -107,3 +107,4 @@ echo "backup -> $DEST"
 - Update docs — iteration 22 (2022)
 - Add example — iteration 23 (2022)
 - Add helper — iteration 30 (2022)
+- Extend coverage — iteration 33 (2022)
