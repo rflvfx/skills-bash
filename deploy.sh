@@ -131,3 +131,4 @@
 - Refactor module — iteration 51 (2022)
 - Tweak implementation — iteration 52 (2022)
 - Add helper — iteration 57 (2022)
+- Document usage — iteration 59 (2022)
