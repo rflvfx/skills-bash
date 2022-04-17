@@ -116,3 +116,4 @@
 - Fix lint warnings — iteration 59 (2021)
 - Document usage — iteration 2 (2022)
 - Document usage — iteration 5 (2022)
+- Update config — iteration 9 (2022)
