@@ -109,3 +109,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Update docs — iteration 57 (2021)
 - Document usage — iteration 1 (2022)
 - Improve naming — iteration 3 (2022)
+- Add example — iteration 4 (2022)
