@@ -113,3 +113,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Update config — iteration 8 (2022)
 - Tweak implementation — iteration 12 (2022)
 - Tweak implementation — iteration 18 (2022)
+- Add helper — iteration 24 (2022)
