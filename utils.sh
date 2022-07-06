@@ -111,3 +111,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Improve naming — iteration 3 (2022)
 - Add example — iteration 4 (2022)
 - Update config — iteration 8 (2022)
+- Tweak implementation — iteration 12 (2022)
