@@ -110,3 +110,4 @@ cmd || die "falhou"        # tratamento de erro
 - Update dependencies — iteration 58 (2021)
 - Update config — iteration 60 (2021)
 - Minor cleanup — iteration 6 (2022)
+- Document usage — iteration 14 (2022)
