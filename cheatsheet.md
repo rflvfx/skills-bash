@@ -112,3 +112,4 @@ cmd || die "falhou"        # tratamento de erro
 - Minor cleanup — iteration 6 (2022)
 - Document usage — iteration 14 (2022)
 - Add feature — iteration 15 (2022)
+- Improve naming — iteration 16 (2022)
