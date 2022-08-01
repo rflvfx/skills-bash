@@ -108,3 +108,4 @@ echo "backup -> $DEST"
 - Add example — iteration 23 (2022)
 - Add helper — iteration 30 (2022)
 - Extend coverage — iteration 33 (2022)
+- Update config — iteration 35 (2022)
