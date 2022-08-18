@@ -105,3 +105,4 @@ echo "backup -> $DEST"
 - Add tests — iteration 7 (2022)
 - Polish code — iteration 11 (2022)
 - Update docs — iteration 22 (2022)
+- Add example — iteration 23 (2022)
