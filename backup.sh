@@ -106,3 +106,4 @@ echo "backup -> $DEST"
 - Polish code — iteration 11 (2022)
 - Update docs — iteration 22 (2022)
 - Add example — iteration 23 (2022)
+- Add helper — iteration 30 (2022)
