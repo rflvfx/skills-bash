@@ -114,3 +114,4 @@
 - Add helper — iteration 52 (2021)
 - Polish code — iteration 55 (2021)
 - Fix lint warnings — iteration 59 (2021)
+- Document usage — iteration 2 (2022)
