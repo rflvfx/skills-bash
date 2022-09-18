@@ -121,3 +121,4 @@
 - Add helper — iteration 13 (2022)
 - Fix typo — iteration 19 (2022)
 - Tweak implementation — iteration 20 (2022)
+- Improve naming — iteration 21 (2022)
