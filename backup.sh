@@ -111,3 +111,4 @@ echo "backup -> $DEST"
 - Update config — iteration 35 (2022)
 - Add feature — iteration 41 (2022)
 - Minor cleanup — iteration 42 (2022)
+- Add validation — iteration 45 (2022)
