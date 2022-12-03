@@ -103,3 +103,4 @@ echo "backup -> $DEST"
 - Fix typo — iteration 48 (2021)
 - Document usage — iteration 51 (2021)
 - Add tests — iteration 7 (2022)
+- Polish code — iteration 11 (2022)
