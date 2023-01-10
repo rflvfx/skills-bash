@@ -135,3 +135,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Add tests — iteration 16 (2023)
 - Add feature — iteration 19 (2023)
 - Improve error handling — iteration 26 (2023)
+- Extend coverage — iteration 31 (2023)
