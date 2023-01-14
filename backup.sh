@@ -115,3 +115,4 @@ echo "backup -> $DEST"
 - Minor cleanup — iteration 46 (2022)
 - Minor cleanup — iteration 50 (2022)
 - Fix lint warnings — iteration 56 (2022)
+- Add tests — iteration 4 (2023)
