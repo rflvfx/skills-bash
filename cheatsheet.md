@@ -124,3 +124,4 @@ cmd || die "falhou"        # tratamento de erro
 - Optimize performance — iteration 5 (2023)
 - Add helper — iteration 7 (2023)
 - Fix lint warnings — iteration 10 (2023)
+- Polish code — iteration 18 (2023)
