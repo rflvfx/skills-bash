@@ -138,3 +138,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Extend coverage — iteration 31 (2023)
 - Polish code — iteration 33 (2023)
 - Fix typo — iteration 35 (2023)
+- Refactor module — iteration 41 (2023)
