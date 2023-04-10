@@ -134,3 +134,4 @@
 - Document usage — iteration 59 (2022)
 - Update config — iteration 2 (2023)
 - Improve naming — iteration 12 (2023)
+- Optimize performance — iteration 17 (2023)
