@@ -125,3 +125,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Update config — iteration 54 (2022)
 - Improve error handling — iteration 55 (2022)
 - Refactor module — iteration 58 (2022)
+- Document usage — iteration 1 (2023)
