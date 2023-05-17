@@ -122,3 +122,4 @@ echo "backup -> $DEST"
 - Document usage — iteration 25 (2023)
 - Add helper — iteration 32 (2023)
 - Update docs — iteration 36 (2023)
+- Add tests — iteration 37 (2023)
