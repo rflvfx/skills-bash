@@ -127,3 +127,4 @@ cmd || die "falhou"        # tratamento de erro
 - Polish code — iteration 18 (2023)
 - Refactor module — iteration 24 (2023)
 - Update docs — iteration 27 (2023)
+- Add example — iteration 29 (2023)
