@@ -129,3 +129,4 @@ cmd || die "falhou"        # tratamento de erro
 - Update docs — iteration 27 (2023)
 - Add example — iteration 29 (2023)
 - Optimize performance — iteration 34 (2023)
+- Update config — iteration 48 (2023)
