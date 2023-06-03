@@ -137,3 +137,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Improve error handling — iteration 26 (2023)
 - Extend coverage — iteration 31 (2023)
 - Polish code — iteration 33 (2023)
+- Fix typo — iteration 35 (2023)
