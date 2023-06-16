@@ -138,3 +138,4 @@
 - Extend coverage — iteration 21 (2023)
 - Improve error handling — iteration 23 (2023)
 - Extend coverage — iteration 28 (2023)
+- Minor cleanup — iteration 30 (2023)
