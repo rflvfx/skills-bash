@@ -120,3 +120,4 @@ echo "backup -> $DEST"
 - Document usage — iteration 20 (2023)
 - Polish code — iteration 22 (2023)
 - Document usage — iteration 25 (2023)
+- Add helper — iteration 32 (2023)
