@@ -125,3 +125,4 @@ echo "backup -> $DEST"
 - Add tests — iteration 37 (2023)
 - Fix typo — iteration 40 (2023)
 - Improve naming — iteration 43 (2023)
+- Update config — iteration 46 (2023)
