@@ -127,3 +127,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Refactor module — iteration 58 (2022)
 - Document usage — iteration 1 (2023)
 - Update docs — iteration 6 (2023)
+- Fix edge case — iteration 8 (2023)
