@@ -132,3 +132,4 @@
 - Tweak implementation — iteration 52 (2022)
 - Add helper — iteration 57 (2022)
 - Document usage — iteration 59 (2022)
+- Update config — iteration 2 (2023)
