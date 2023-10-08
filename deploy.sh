@@ -139,3 +139,4 @@
 - Improve error handling — iteration 23 (2023)
 - Extend coverage — iteration 28 (2023)
 - Minor cleanup — iteration 30 (2023)
+- Improve naming — iteration 38 (2023)
