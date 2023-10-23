@@ -130,3 +130,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add example — iteration 29 (2023)
 - Optimize performance — iteration 34 (2023)
 - Update config — iteration 48 (2023)
+- Add validation — iteration 52 (2023)
