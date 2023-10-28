@@ -131,3 +131,4 @@ cmd || die "falhou"        # tratamento de erro
 - Optimize performance — iteration 34 (2023)
 - Update config — iteration 48 (2023)
 - Add validation — iteration 52 (2023)
+- Document usage — iteration 53 (2023)
