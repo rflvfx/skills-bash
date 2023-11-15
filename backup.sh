@@ -117,3 +117,4 @@ echo "backup -> $DEST"
 - Fix lint warnings — iteration 56 (2022)
 - Add tests — iteration 4 (2023)
 - Add tests — iteration 14 (2023)
+- Document usage — iteration 20 (2023)
