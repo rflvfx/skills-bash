@@ -128,3 +128,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Document usage — iteration 1 (2023)
 - Update docs — iteration 6 (2023)
 - Fix edge case — iteration 8 (2023)
+- Add example — iteration 9 (2023)
