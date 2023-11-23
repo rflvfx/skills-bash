@@ -123,3 +123,4 @@ echo "backup -> $DEST"
 - Add helper — iteration 32 (2023)
 - Update docs — iteration 36 (2023)
 - Add tests — iteration 37 (2023)
+- Fix typo — iteration 40 (2023)
