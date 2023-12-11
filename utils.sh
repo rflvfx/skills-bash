@@ -129,3 +129,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Update docs — iteration 6 (2023)
 - Fix edge case — iteration 8 (2023)
 - Add example — iteration 9 (2023)
+- Add feature — iteration 11 (2023)
