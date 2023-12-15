@@ -122,3 +122,4 @@ cmd || die "falhou"        # tratamento de erro
 - Update dependencies — iteration 60 (2022)
 - Improve error handling — iteration 3 (2023)
 - Optimize performance — iteration 5 (2023)
+- Add helper — iteration 7 (2023)
