@@ -146,3 +146,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Fix typo — iteration 58 (2023)
 - Fix typo — iteration 14 (2024)
 - Update dependencies — iteration 20 (2024)
+- Add tests — iteration 26 (2024)
