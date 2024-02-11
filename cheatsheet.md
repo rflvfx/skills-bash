@@ -144,3 +144,4 @@ cmd || die "falhou"        # tratamento de erro
 - Fix typo — iteration 36 (2024)
 - Add helper — iteration 37 (2024)
 - Add tests — iteration 38 (2024)
+- Optimize performance — iteration 40 (2024)
