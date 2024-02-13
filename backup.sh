@@ -140,3 +140,4 @@ echo "backup -> $DEST"
 - Add tests — iteration 33 (2024)
 - Add example — iteration 43 (2024)
 - Update dependencies — iteration 44 (2024)
+- Update docs — iteration 49 (2024)
