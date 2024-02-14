@@ -135,3 +135,4 @@ echo "backup -> $DEST"
 - Tweak implementation — iteration 16 (2024)
 - Add validation — iteration 22 (2024)
 - Fix typo — iteration 25 (2024)
+- Document usage — iteration 27 (2024)
