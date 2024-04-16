@@ -137,3 +137,4 @@ echo "backup -> $DEST"
 - Fix typo — iteration 25 (2024)
 - Document usage — iteration 27 (2024)
 - Update config — iteration 29 (2024)
+- Add tests — iteration 33 (2024)
