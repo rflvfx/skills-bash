@@ -140,3 +140,4 @@ cmd || die "falhou"        # tratamento de erro
 - Fix lint warnings — iteration 19 (2024)
 - Update config — iteration 24 (2024)
 - Document usage — iteration 32 (2024)
+- Update dependencies — iteration 34 (2024)
