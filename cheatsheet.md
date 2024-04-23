@@ -137,3 +137,4 @@ cmd || die "falhou"        # tratamento de erro
 - Improve error handling — iteration 12 (2024)
 - Fix edge case — iteration 15 (2024)
 - Add validation — iteration 17 (2024)
+- Fix lint warnings — iteration 19 (2024)
