@@ -128,3 +128,4 @@ echo "backup -> $DEST"
 - Update config — iteration 46 (2023)
 - Update dependencies — iteration 49 (2023)
 - Document usage — iteration 59 (2023)
+- Fix edge case — iteration 1 (2024)
