@@ -147,3 +147,4 @@ cmd || die "falhou"        # tratamento de erro
 - Optimize performance — iteration 40 (2024)
 - Tweak implementation — iteration 46 (2024)
 - Add example — iteration 53 (2024)
+- Update docs — iteration 56 (2024)
