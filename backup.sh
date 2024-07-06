@@ -134,3 +134,4 @@ echo "backup -> $DEST"
 - Fix edge case — iteration 13 (2024)
 - Tweak implementation — iteration 16 (2024)
 - Add validation — iteration 22 (2024)
+- Fix typo — iteration 25 (2024)
