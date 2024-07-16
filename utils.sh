@@ -149,3 +149,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Add tests — iteration 26 (2024)
 - Extend coverage — iteration 30 (2024)
 - Optimize performance — iteration 31 (2024)
+- Add example — iteration 39 (2024)
