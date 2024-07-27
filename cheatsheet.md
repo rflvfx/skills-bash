@@ -133,3 +133,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add validation — iteration 52 (2023)
 - Document usage — iteration 53 (2023)
 - Add helper — iteration 2 (2024)
+- Document usage — iteration 9 (2024)
