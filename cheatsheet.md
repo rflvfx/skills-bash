@@ -136,3 +136,4 @@ cmd || die "falhou"        # tratamento de erro
 - Document usage — iteration 9 (2024)
 - Improve error handling — iteration 12 (2024)
 - Fix edge case — iteration 15 (2024)
+- Add validation — iteration 17 (2024)
