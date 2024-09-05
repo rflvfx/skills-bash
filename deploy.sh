@@ -150,3 +150,4 @@
 - Add example — iteration 60 (2023)
 - Document usage — iteration 4 (2024)
 - Polish code — iteration 5 (2024)
+- Refactor module — iteration 7 (2024)
