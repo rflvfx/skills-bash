@@ -133,3 +133,4 @@ echo "backup -> $DEST"
 - Add helper — iteration 6 (2024)
 - Fix edge case — iteration 13 (2024)
 - Tweak implementation — iteration 16 (2024)
+- Add validation — iteration 22 (2024)
