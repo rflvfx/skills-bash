@@ -157,3 +157,4 @@
 - Add helper — iteration 18 (2024)
 - Document usage — iteration 21 (2024)
 - Tweak implementation — iteration 23 (2024)
+- Add validation — iteration 28 (2024)
