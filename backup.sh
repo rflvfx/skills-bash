@@ -138,3 +138,4 @@ echo "backup -> $DEST"
 - Document usage — iteration 27 (2024)
 - Update config — iteration 29 (2024)
 - Add tests — iteration 33 (2024)
+- Add example — iteration 43 (2024)
