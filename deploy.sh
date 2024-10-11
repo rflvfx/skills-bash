@@ -161,3 +161,4 @@
 - Update dependencies — iteration 35 (2024)
 - Tweak implementation — iteration 41 (2024)
 - Extend coverage — iteration 42 (2024)
+- Add validation — iteration 47 (2024)
