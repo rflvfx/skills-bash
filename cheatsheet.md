@@ -149,3 +149,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add example — iteration 53 (2024)
 - Update docs — iteration 56 (2024)
 - Polish code — iteration 57 (2024)
+- Add validation — iteration 59 (2024)
