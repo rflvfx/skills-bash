@@ -130,3 +130,4 @@ echo "backup -> $DEST"
 - Document usage — iteration 59 (2023)
 - Fix edge case — iteration 1 (2024)
 - Improve naming — iteration 3 (2024)
+- Add helper — iteration 6 (2024)
