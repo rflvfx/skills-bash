@@ -139,3 +139,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add validation — iteration 17 (2024)
 - Fix lint warnings — iteration 19 (2024)
 - Update config — iteration 24 (2024)
+- Document usage — iteration 32 (2024)
