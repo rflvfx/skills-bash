@@ -151,3 +151,4 @@
 - Document usage — iteration 4 (2024)
 - Polish code — iteration 5 (2024)
 - Refactor module — iteration 7 (2024)
+- Add validation — iteration 8 (2024)
