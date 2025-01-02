@@ -166,3 +166,4 @@
 - Minor cleanup — iteration 2 (2025)
 - Add tests — iteration 3 (2025)
 - Add tests — iteration 4 (2025)
+- Fix lint warnings — iteration 11 (2025)
