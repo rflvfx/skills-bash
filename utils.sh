@@ -167,3 +167,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Refactor module — iteration 36 (2025)
 - Polish code — iteration 44 (2025)
 - Fix lint warnings — iteration 47 (2025)
+- Add validation — iteration 51 (2025)
