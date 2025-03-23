@@ -152,3 +152,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add validation — iteration 59 (2024)
 - Improve error handling — iteration 6 (2025)
 - Document usage — iteration 7 (2025)
+- Optimize performance — iteration 17 (2025)
