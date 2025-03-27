@@ -171,3 +171,4 @@
 - Add feature — iteration 14 (2025)
 - Tweak implementation — iteration 18 (2025)
 - Document usage — iteration 20 (2025)
+- Improve error handling — iteration 21 (2025)
