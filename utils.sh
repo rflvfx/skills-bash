@@ -164,3 +164,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Add feature — iteration 23 (2025)
 - Add example — iteration 25 (2025)
 - Fix edge case — iteration 33 (2025)
+- Refactor module — iteration 36 (2025)
