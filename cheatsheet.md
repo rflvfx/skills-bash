@@ -166,3 +166,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add example — iteration 49 (2025)
 - Improve naming — iteration 52 (2025)
 - Polish code — iteration 53 (2025)
+- Optimize performance — iteration 60 (2025)
