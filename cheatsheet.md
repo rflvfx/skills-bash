@@ -156,3 +156,4 @@ cmd || die "falhou"        # tratamento de erro
 - Update config — iteration 24 (2025)
 - Add tests — iteration 26 (2025)
 - Fix edge case — iteration 29 (2025)
+- Add feature — iteration 30 (2025)
