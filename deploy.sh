@@ -170,3 +170,4 @@
 - Update config — iteration 13 (2025)
 - Add feature — iteration 14 (2025)
 - Tweak implementation — iteration 18 (2025)
+- Document usage — iteration 20 (2025)
