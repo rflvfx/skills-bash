@@ -148,3 +148,4 @@ echo "backup -> $DEST"
 - Fix lint warnings — iteration 15 (2025)
 - Add helper — iteration 16 (2025)
 - Update config — iteration 19 (2025)
+- Refactor module — iteration 28 (2025)
