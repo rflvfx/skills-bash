@@ -153,3 +153,4 @@ echo "backup -> $DEST"
 - Document usage — iteration 34 (2025)
 - Fix typo — iteration 39 (2025)
 - Document usage — iteration 41 (2025)
+- Polish code — iteration 55 (2025)
