@@ -163,3 +163,4 @@ cmd || die "falhou"        # tratamento de erro
 - Update dependencies — iteration 40 (2025)
 - Improve error handling — iteration 43 (2025)
 - Fix typo — iteration 45 (2025)
+- Add example — iteration 49 (2025)
