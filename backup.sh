@@ -152,3 +152,4 @@ echo "backup -> $DEST"
 - Minor cleanup — iteration 32 (2025)
 - Document usage — iteration 34 (2025)
 - Fix typo — iteration 39 (2025)
+- Document usage — iteration 41 (2025)
