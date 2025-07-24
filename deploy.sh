@@ -163,3 +163,4 @@
 - Extend coverage — iteration 42 (2024)
 - Add validation — iteration 47 (2024)
 - Tweak implementation — iteration 1 (2025)
+- Minor cleanup — iteration 2 (2025)
