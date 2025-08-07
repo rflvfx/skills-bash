@@ -154,3 +154,4 @@ cmd || die "falhou"        # tratamento de erro
 - Document usage — iteration 7 (2025)
 - Optimize performance — iteration 17 (2025)
 - Update config — iteration 24 (2025)
+- Add tests — iteration 26 (2025)
