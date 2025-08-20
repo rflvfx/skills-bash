@@ -168,3 +168,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Polish code — iteration 44 (2025)
 - Fix lint warnings — iteration 47 (2025)
 - Add validation — iteration 51 (2025)
+- Add helper — iteration 54 (2025)
