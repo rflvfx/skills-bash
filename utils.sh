@@ -161,3 +161,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Update docs — iteration 10 (2025)
 - Update config — iteration 12 (2025)
 - Improve error handling — iteration 22 (2025)
+- Add feature — iteration 23 (2025)
