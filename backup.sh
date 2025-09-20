@@ -143,3 +143,4 @@ echo "backup -> $DEST"
 - Update docs — iteration 49 (2024)
 - Add tests — iteration 50 (2024)
 - Add feature — iteration 54 (2024)
+- Add validation — iteration 8 (2025)
