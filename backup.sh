@@ -146,3 +146,4 @@ echo "backup -> $DEST"
 - Add validation — iteration 8 (2025)
 - Add feature — iteration 9 (2025)
 - Fix lint warnings — iteration 15 (2025)
+- Add helper — iteration 16 (2025)
