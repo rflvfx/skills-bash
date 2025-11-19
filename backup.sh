@@ -150,3 +150,4 @@ echo "backup -> $DEST"
 - Update config — iteration 19 (2025)
 - Refactor module — iteration 28 (2025)
 - Minor cleanup — iteration 32 (2025)
+- Document usage — iteration 34 (2025)
