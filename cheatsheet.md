@@ -158,3 +158,4 @@ cmd || die "falhou"        # tratamento de erro
 - Fix edge case — iteration 29 (2025)
 - Add feature — iteration 30 (2025)
 - Add tests — iteration 31 (2025)
+- Document usage — iteration 37 (2025)
