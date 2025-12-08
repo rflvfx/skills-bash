@@ -174,3 +174,4 @@
 - Improve error handling — iteration 21 (2025)
 - Add helper — iteration 27 (2025)
 - Add helper — iteration 35 (2025)
+- Add example — iteration 42 (2025)
