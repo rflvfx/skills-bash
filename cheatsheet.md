@@ -160,3 +160,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add tests — iteration 31 (2025)
 - Document usage — iteration 37 (2025)
 - Improve naming — iteration 38 (2025)
+- Update dependencies — iteration 40 (2025)
