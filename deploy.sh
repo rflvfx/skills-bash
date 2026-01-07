@@ -187,3 +187,4 @@
 - Tweak implementation — iteration 18 (2026)
 - Add example — iteration 19 (2026)
 - Add example — iteration 24 (2026)
+- Minor cleanup — iteration 26 (2026)
