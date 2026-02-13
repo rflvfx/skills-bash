@@ -178,3 +178,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add tests — iteration 23 (2026)
 - Add helper — iteration 25 (2026)
 - Polish code — iteration 27 (2026)
+- Improve naming — iteration 29 (2026)
