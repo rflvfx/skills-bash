@@ -155,3 +155,4 @@ echo "backup -> $DEST"
 - Document usage — iteration 41 (2025)
 - Polish code — iteration 55 (2025)
 - Tweak implementation — iteration 58 (2025)
+- Extend coverage — iteration 4 (2026)
