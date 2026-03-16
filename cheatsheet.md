@@ -170,3 +170,4 @@ cmd || die "falhou"        # tratamento de erro
 - Fix edge case — iteration 2 (2026)
 - Polish code — iteration 5 (2026)
 - Add validation — iteration 6 (2026)
+- Add example — iteration 7 (2026)
