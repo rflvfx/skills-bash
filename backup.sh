@@ -157,3 +157,4 @@ echo "backup -> $DEST"
 - Tweak implementation — iteration 58 (2025)
 - Extend coverage — iteration 4 (2026)
 - Tweak implementation — iteration 9 (2026)
+- Document usage — iteration 11 (2026)
