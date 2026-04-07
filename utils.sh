@@ -170,3 +170,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Add validation — iteration 51 (2025)
 - Add helper — iteration 54 (2025)
 - Add example — iteration 56 (2025)
+- Extend coverage — iteration 3 (2026)
