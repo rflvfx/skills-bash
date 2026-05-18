@@ -171,3 +171,4 @@ cmd || die "falhou"        # tratamento de erro
 - Polish code — iteration 5 (2026)
 - Add validation — iteration 6 (2026)
 - Add example — iteration 7 (2026)
+- Minor cleanup — iteration 8 (2026)
