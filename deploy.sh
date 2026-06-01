@@ -185,3 +185,4 @@
 - Minor cleanup — iteration 13 (2026)
 - Add helper — iteration 16 (2026)
 - Tweak implementation — iteration 18 (2026)
+- Add example — iteration 19 (2026)
