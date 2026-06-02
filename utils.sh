@@ -182,3 +182,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Add helper — iteration 50 (2026)
 - Fix lint warnings — iteration 54 (2026)
 - Update config — iteration 57 (2026)
+- Fix edge case — iteration 58 (2026)
