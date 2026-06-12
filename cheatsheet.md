@@ -168,3 +168,4 @@ cmd || die "falhou"        # tratamento de erro
 - Polish code — iteration 53 (2025)
 - Optimize performance — iteration 60 (2025)
 - Fix edge case — iteration 2 (2026)
+- Polish code — iteration 5 (2026)
