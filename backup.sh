@@ -161,3 +161,4 @@ echo "backup -> $DEST"
 - Fix edge case — iteration 14 (2026)
 - Extend coverage — iteration 15 (2026)
 - Improve error handling — iteration 20 (2026)
+- Improve error handling — iteration 38 (2026)
