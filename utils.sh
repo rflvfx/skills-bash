@@ -179,3 +179,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Update config — iteration 42 (2026)
 - Update dependencies — iteration 45 (2026)
 - Tweak implementation — iteration 46 (2026)
+- Add helper — iteration 50 (2026)
