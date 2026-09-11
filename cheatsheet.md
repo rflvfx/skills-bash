@@ -186,3 +186,4 @@ cmd || die "falhou"        # tratamento de erro
 - Refactor module — iteration 53 (2026)
 - Refactor module — iteration 55 (2026)
 - Add example — iteration 56 (2026)
+- Add validation — iteration 60 (2026)
