@@ -173,3 +173,4 @@ require() { command -v "$1" >/dev/null || die "$1 not found"; }
 - Extend coverage — iteration 3 (2026)
 - Add feature — iteration 22 (2026)
 - Polish code — iteration 31 (2026)
+- Improve error handling — iteration 33 (2026)
