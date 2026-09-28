@@ -192,3 +192,4 @@
 - Add example — iteration 34 (2026)
 - Improve error handling — iteration 37 (2026)
 - Update dependencies — iteration 39 (2026)
+- Update docs — iteration 41 (2026)
