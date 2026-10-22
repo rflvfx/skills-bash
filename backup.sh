@@ -163,3 +163,4 @@ echo "backup -> $DEST"
 - Improve error handling — iteration 20 (2026)
 - Improve error handling — iteration 38 (2026)
 - Document usage — iteration 47 (2026)
+- Add feature — iteration 52 (2026)
