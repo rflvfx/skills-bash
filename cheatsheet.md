@@ -175,3 +175,4 @@ cmd || die "falhou"        # tratamento de erro
 - Add example — iteration 10 (2026)
 - Fix typo — iteration 17 (2026)
 - Improve naming — iteration 21 (2026)
+- Add tests — iteration 23 (2026)
