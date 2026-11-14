@@ -159,3 +159,4 @@ echo "backup -> $DEST"
 - Tweak implementation — iteration 9 (2026)
 - Document usage — iteration 11 (2026)
 - Fix edge case — iteration 14 (2026)
+- Extend coverage — iteration 15 (2026)
